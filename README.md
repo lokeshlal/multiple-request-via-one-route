@@ -1,5 +1,7 @@
 # multiple-request-via-one-route
 
+Note: Below methods is based on express server module.
+
 Call multiple routes from a single route in express - node.js
 
 While building Web API, most of the times we encounter situation where we need to stuff data from multiple places into single call to avoid multiple calls from client to server.
